@@ -37,18 +37,6 @@ const names = [
     'James',
     'Kara',
     'Liam',
-    'Maya',
-    'Noah',
-    'Olivia',
-    'Peter',
-    'Rosa',
-    'Sophia',
-    'Thomas',
-    'Uma',
-    'Violet',
-    'Wesley',
-    'Zoe',
-    'Adrian',
 ];
 
 console.log(names.join('\n'));
